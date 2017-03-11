@@ -11,5 +11,8 @@
     "url": "https://github.com/tomipaul/self-learning_day-0/"
   },
   "author": "Oluwatomi Paul Akande",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
 }
