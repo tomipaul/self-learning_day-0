@@ -7,7 +7,7 @@ function findMinMax(numbersArray) {
 		return "ValueError, array of numbers is expected";
 	}
 	/*Initialises min and max number to first item of array*/
-	let [min, max] = [numbersArray[0], numbersArray[0]]
+	let [min, max] = [numbersArray[0], numbersArray[0]];
 	/*Initialises arrIndex to 1*/
 	let arrIndex = 1;
 	/*while arrIndex is less than array length, check if the value at arrIndex is lower than the min
